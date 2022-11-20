@@ -1,0 +1,12 @@
+[general]
+author=slimebreath6078
+name=Azure Slime
+start=2level
+themecount=1
+firstlevel=59level
+mods=1
+
+[levels]
+levelid=78
+rolling_levelid=79
+
